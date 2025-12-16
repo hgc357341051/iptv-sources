@@ -48489,6 +48489,9 @@
 	<programme channel="纯享4K" start="20251216100300 +0800" stop="20251216104300 +0800">
 		<title lang="zh">探索b7发现4K 探秘天长六里墩墓葬（3）</title>
 	</programme>
+	<programme channel="纯享4K" start="20251216104300 +0800" stop="20251216112300 +0800">
+		<title lang="zh">探索b7发现4K 2022年中国考古新发现</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -60333,6 +60336,9 @@
 	<programme channel="newtv超级电影" start="20251216085100 +0800" stop="20251216103900 +0800">
 		<title lang="zh">伊犁河谷</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20251216103900 +0800" stop="20251216121000 +0800">
+		<title lang="zh">灵魂的救赎</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -60425,6 +60431,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251216094900 +0800" stop="20251216103400 +0800">
 		<title lang="zh">17_乔家的儿女</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251216103400 +0800" stop="20251216111400 +0800">
+		<title lang="zh">益健堂半导体激光表</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -60624,6 +60633,9 @@
 	<programme channel="newtv家庭剧场" start="20251216095000 +0800" stop="20251216103500 +0800">
 		<title lang="zh">09_珠江人家</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251216103500 +0800" stop="20251216111600 +0800">
+		<title lang="zh">益健堂半导体激光表</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -60669,6 +60681,9 @@
 	<programme channel="newtv热播精选" start="20251216095800 +0800" stop="20251216104100 +0800">
 		<title lang="zh">08_岁岁青莲</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251216104100 +0800" stop="20251216111100 +0800">
+		<title lang="zh">健康推荐渠道</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -60710,6 +60725,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251216095100 +0800" stop="20251216103700 +0800">
 		<title lang="zh">46_庆余年</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251216103700 +0800" stop="20251216111800 +0800">
+		<title lang="zh">益健堂半导体激光表</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -60804,6 +60822,9 @@
 	<programme channel="newtv怡伴健康" start="20251216095800 +0800" stop="20251216104300 +0800">
 		<title lang="zh">28_冤家亲家</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251216104300 +0800" stop="20251216112300 +0800">
+		<title lang="zh">益健堂半导体激光表</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -60851,6 +60872,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251216095700 +0800" stop="20251216104200 +0800">
 		<title lang="zh">06_九重紫</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251216104200 +0800" stop="20251216112300 +0800">
+		<title lang="zh">益健堂半导体激光表</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -61115,6 +61139,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251216095000 +0800" stop="20251216103600 +0800">
 		<title lang="zh">29_雾都魅影</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251216103600 +0800" stop="20251216110600 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
